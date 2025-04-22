@@ -3,7 +3,7 @@ use anchor_lang::prelude::*;
 // Anchor discriminator size, that is needed to calculate the space required for the account.
 const ANCHOR_DISCRIMINATOR: usize = 8;
 
-declare_id!("EcGhLkbDw9rWoJXgwfQiJEy32THQftmVY3mQwKxY6xk1");
+declare_id!("9Xjkfbdv8aHaWRiGwTNSzWdrN3i346vyZzCsdEXYa3C");
 
 #[program]
 pub mod anchor_counter {
